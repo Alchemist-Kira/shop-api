@@ -109,15 +109,15 @@
         }
       },
       {
-        "id": 10,
-        "title": "Glass Top Dining Table",
-        "price": 399.99,
-          "description": "Elegant dining table with clear glass top and steel frame.",
-        "category": "furniture",
-        "image": "https://www.designersofas4u.co.uk/images/pictures/premium-extendable-dining-tables/tango-3008-white-agglomerate-base-and-2001.jpg?v=124c533b",
-        "rating": {
-          "rate": 4.2,
-          "count": 69
+       "id": 10,
+       "title": "Glass Top Dining Table",
+       "price": 399.99, // <<<< COMMA ADDED
+       "description": "Elegant dining table with clear glass top and steel frame.",
+       "category": "furniture",
+       "image": "https://www.designersofas4u.co.uk/images/pictures/premium-extendable-dining-tables/tango-3008-white-agglomerate-base-and-2001.jpg?v=124c533b",
+       "rating": {
+         "rate": 4.2,
+         "count": 69
         }
       },
       {
