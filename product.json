@@ -112,3 +112,37 @@
         "id": 10,
         "title": "Glass Top Dining Table",
         "price": 399.99,
+          "description": "Elegant dining table with clear glass top and steel frame.",
+        "category": "furniture",
+        "image": "https://www.designersofas4u.co.uk/images/pictures/premium-extendable-dining-tables/tango-3008-white-agglomerate-base-and-2001.jpg?v=124c533b",
+        "rating": {
+          "rate": 4.2,
+          "count": 69
+        }
+      },
+      {
+        "id": 11,
+        "title": "TV Console Stand",
+        "price": 179.99,
+        "description": "Modern TV stand with shelves and cable management features.",
+        "category": "furniture",
+        "image": "https://m.media-amazon.com/images/I/71vMRO8w17L.jpg",
+        "rating": {
+          "rate": 4.4,
+          "count": 88
+        }
+      },
+      {
+        "id": 12,
+        "title": "Classic Wooden Wardrobe",
+        "price": 749.99,
+        "description": "Spacious 3-door wardrobe with mirror and drawers.",
+        "category": "furniture",
+        "image": "https://image.made-in-china.com/202f0j00cljUNGBJSZoV/Factory-Wholesale-Classic-Solid-Wood-Wardrobe-in-Optional-Furniture-Color.jpg",
+        "rating": {
+          "rate": 4.6,
+          "count": 134
+        }
+      }
+    ]
+  }
