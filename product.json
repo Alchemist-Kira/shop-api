@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Modern Wooden Dining Table",
+      "price": 499.99,
+      "description": "A sleek 6-seater wooden dining table with a walnut finish.",
+      "category": "furniture",
+      "image": "https://via.placeholder.com/300/4B5563/FFFFFF?text=Dining+Table",
+      "rating": {
+        "rate": 4.6,
+        "count": 78
+      }
+    },
+    {
+      "id": 2,
+      "title": "Luxury Fabric Sofa",
+      "price": 899.99,
+      "description": "Three-seater premium fabric sofa with soft cushions and hardwood legs.",
+      "category": "furniture",
+      "image": "https://via.placeholder.com/300/10B981/FFFFFF?text=Fabric+Sofa",
+      "rating": {
+        "rate": 4.4,
+        "count": 142
+      }
+    },
+    {
+      "id": 3,
+      "title": "Ergonomic Office Chair",
+      "price": 249.99,
+      "description": "Adjustable office chair with lumbar support and breathable mesh.",
+      "category": "furniture",
+      "image": "https://via.placeholder.com/300/3B82F6/FFFFFF?text=Office+Chair",
+      "rating": {
+        "rate": 4.3,
+        "count": 96
+      }
+    },
+    {
+      "id": 4,
+      "title": "Minimalist Bookshelf",
+      "price": 199.99,
+      "description": "5-tier open bookshelf with a modern, space-saving design.",
+      "category": "furniture",
+      "image": "https://via.placeholder.com/300/F59E0B/FFFFFF?text=Bookshelf",
+      "rating": {
+        "rate": 4.5,
+        "count": 64
+      }
+    },
+    {
+      "id": 5,
+      "title": "Queen Size Bed Frame",
+      "price": 599.99,
+      "description": "Sturdy metal queen bed frame with wooden headboard and storage space.",
+      "category": "furniture",
+      "image": "https://via.placeholder.com/300/8B5CF6/FFFFFF?text=Bed+Frame",
+      "rating": {
+        "rate": 4.7,
+        "count": 110
+      }
+    },
+    {
+      "id": 6,
+      "title": "Compact Coffee Table",
+      "price": 149.99,
+      "description": "Stylish coffee table with tempered glass top and wooden base.",
+      "category": "furniture",
+      "image": "https://via.placeholder.com/300/EF4444/FFFFFF?text=Coffee+Table",
+      "rating": {
+        "rate": 4.2,
+        "count": 83
+      }
+    },
+    {
+      "id": 7,
+      "title": "Recliner Lounge Chair",
+      "price": 329.99,
+      "description": "Comfortable reclining chair with footrest and leather upholstery.",
+      "category": "furniture",
+      "image": "https://via.placeholder.com/300/6B7280/FFFFFF?text=Recliner+Chair",
+      "rating": {
+        "rate": 4.5,
+        "count": 72
+      }
+    },
+    {
+      "id": 8,
+      "title": "Wooden Nightstand",
+      "price": 89.99,
+      "description": "Compact two-drawer nightstand in oak finish.",
+      "category": "furniture",
+      "image": "https://via.placeholder.com/300/22D3EE/FFFFFF?text=Nightstand",
+      "rating": {
+        "rate": 4.1,
+        "count": 58
+      }
+    },
+    {
+      "id": 9,
+      "title": "Convertible Sofa Bed",
+      "price": 699.99,
+      "description": "Space-saving convertible sofa bed with soft fabric and storage.",
+      "category": "furniture",
+      "image": "https://via.placeholder.com/300/F43F5E/FFFFFF?text=Sofa+Bed",
+      "rating": {
+        "rate": 4.3,
+        "count": 101
+      }
+    },
+    {
+      "id": 10,
+      "title": "Glass Top Dining Table",
+      "price": 399.99,
+      "description": "Elegant dining table with clear glass top and steel frame.",
+      "category": "furniture",
+      "image": "https://via.placeholder.com/300/14B8A6/FFFFFF?text=Glass+Table",
+      "rating": {
+        "rate": 4.2,
+        "count": 69
+      }
+    },
+    {
+      "id": 11,
+      "title": "TV Console Stand",
+      "price": 179.99,
+      "description": "Modern TV stand with shelves and cable management features.",
+      "category": "furniture",
+      "image": "https://via.placeholder.com/300/EAB308/FFFFFF?text=TV+Stand",
+      "rating": {
+        "rate": 4.4,
+        "count": 88
+      }
+    },
+    {
+      "id": 12,
+      "title": "Classic Wooden Wardrobe",
+      "price": 749.99,
+      "description": "Spacious 3-door wardrobe with mirror and drawers.",
+      "category": "furniture",
+      "image": "https://via.placeholder.com/300/7C3AED/FFFFFF?text=Wardrobe",
+      "rating": {
+        "rate": 4.6,
+        "count": 134
+      }
+    }
+  ]
+}
